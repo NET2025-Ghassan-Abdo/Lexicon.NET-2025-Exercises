@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Övning1-CSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "This is .NET"
+    }
+  }
+}
