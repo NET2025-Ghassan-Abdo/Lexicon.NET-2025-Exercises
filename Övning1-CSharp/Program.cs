@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-
+﻿
 public class Employee
 {
     //The next two lines Defines attributes  to store employees name and salary inside the class
